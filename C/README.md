@@ -201,10 +201,6 @@ _add list here_
 - [Swap_Two_Nibbles](other/Swap_two_nibbles.c)
 - [Sudoku Solver](other/SudokuSolver.c)
 
-## Stack
-
-- [Infix to Prefix](stack/infix_to_prefix.c)
-
 ## Blockchain
 
 _add list here_
